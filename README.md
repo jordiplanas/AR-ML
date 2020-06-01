@@ -1,5 +1,5 @@
 
-![Machine Learning banner](https://img.freepik.com/vector-gratis/machine-learning-banner-web-icon-set-mineria-datos-algoritmo-red-neuronal_35632-107.jpg?size=626&ext=jpg)
+<div style="text-align:center"><img src="https://img.freepik.com/vector-gratis/machine-learning-banner-web-icon-set-mineria-datos-algoritmo-red-neuronal_35632-107.jpg?size=626&ext=jpg" /></div>
 # AR-ML
 Introduction to UX/UI for Augmented Reality and Machine Learning
 ## Overview
