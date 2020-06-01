@@ -13,12 +13,28 @@ The goal of the workshop will be to deliver a final web app that will be evaluat
 - Design (Good implementation of UX/UI for web apps and AR) **30%**
 - Tech (functional and structured code and efficient use of the libraries) **40%**
 
-Theoretical classes will be online in school platform and working sessions willbe presential.
+There will be two teachers involved in the project, Aurel Richard for the AR side and Jordi Planas for the ML part.
+Theoretical classes will be online in school platform and working sessions will be presential (place TBC).
 
 ## Calendar
-- **Class 1**  16/06 - Bla bla bla bla bla bla bla
-- **Class 1**
-- **Class 2**
+### WORKSHOP KICKOFF
+- **Class 1 // 16/06 // 16:30**  // Online course intro // Jordi and Aurel
+### AR Classes
+- **Class 1 // 16/06 // 16:30**  // AR Intro
+- **Class 3 // 16/06 // 16:30**  // Excercise 1
+- **Class 3 // 16/06 // 16:30**  // Excercise 2
+### ML Classes
+- **Class 1 // 16/06 // 16:30**  // ML Intro
+- **Class 3 // 16/06 // 16:30**  // Excercise 1
+- **Class 3 // 16/06 // 16:30**  // Excercise 1
+### COMMON WORKSHOP
+- **Class 1 // 16/06**  // Research
+- **Class 3 // 16/06**  // Design
+- **Class 3 // 16/06**  // Prototype
+- **Class 3 // 16/06**  // Development 1
+- **Class 3 // 16/06**  // Development 2
+### PRESENTATION
+- **Class 3 // 16/06**  // Final Presentation
 
 ## Teachers
 - **Aurel Richard**
