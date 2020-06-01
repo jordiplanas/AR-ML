@@ -8,9 +8,9 @@ The porpouse of this workshop is to desing and develop a web app that involves A
 - **Class 1**
 - **Class 2**
 ## Teachers
-**Aurel Richard**
+- **Aurel Richard**
 Some bio
-**Jordi Planas**
+- **Jordi Planas**
 Some bio
 ## Tools
 - Code Editor
