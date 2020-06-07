@@ -18,15 +18,15 @@ Theoretical classes will be online in school platform and working sessions will 
 
 ## Calendar
 ### WORKSHOP KICKOFF
-- **Class 1 // 16/06 // 16:30**  // Online course intro // Jordi and Aurel
+- **Class 1 // 11/06 // 16:30-17:30**  // Online course intro // Jordi and Aurel
 ### AR Classes
 - **Class 1 // 16/06 // 16:30**  // AR Intro
 - **Class 3 // 16/06 // 16:30**  // Excercise 1
 - **Class 3 // 16/06 // 16:30**  // Excercise 2
 ### ML Classes
-- **Class 1 // 16/06 // 16:30**  // ML Intro
-- **Class 3 // 16/06 // 16:30**  // Excercise 1
-- **Class 3 // 16/06 // 16:30**  // Excercise 1
+- **Class 1 // 11/06 // 17:30-18:30**  // ML Intro
+- **Class 3 // 18/06 // 16:30-18:30**  // Image classification + Regression + Excercise 1
+- **Class 3 // 15/06 // 16:30-18:30**  // Excercise 2
 ### COMMON WORKSHOP
 - **Class 1 // 16/06**  // Research
 - **Class 3 // 16/06**  // Design
