@@ -20,19 +20,20 @@ Theoretical classes will be online in school platform and working sessions will 
 ### WORKSHOP KICKOFF
 - **Class 1 // 11/06 // 16:30-17:30**  // Online course intro // Jordi and Aurel
 ### AR Classes
-- **Class 1 // 16/06 // 16:30**  // AR Intro
-- **Class 3 // 16/06 // 16:30**  // Excercise 1
-- **Class 3 // 16/06 // 16:30**  // Excercise 2
+- **Class 1 // 11/06 // 18:30-20:30**  // AR Intro
+- **Class 2 // 12/06 // 16:30-18:30**  // Excercise 1
+- **Class 3 // 18/06 // 18:30-20:30**  // Excercise 2
+- **Class 4 // 19/06 // 16:30-18:30**  // Excercise 3
+- **Class 5 // 25/06 // 18:30-18:30**  // Excercise 4
 ### ML Classes
 - **Class 1 // 11/06 // 17:30-18:30**  // ML Intro
-- **Class 3 // 18/06 // 16:30-18:30**  // Image classification + Regression + Excercise 1
-- **Class 3 // 15/06 // 16:30-18:30**  // Excercise 2
+- **Class 2 // 18/06 // 16:30-18:30**  // Image classification + Regression + Excercise 1
+- **Class 3 // 25/06 // 16:30-18:30**  // Excercise 2
 ### COMMON WORKSHOP
-- **Class 1 // 16/06**  // Research
-- **Class 3 // 16/06**  // Design
-- **Class 3 // 16/06**  // Prototype
-- **Class 3 // 16/06**  // Development 1
-- **Class 3 // 16/06**  // Development 2
+- **Class 1 // 26/06 // 16:30-20:30** // Research
+- **Class 2 // 2/07 // 16:30-20:30** // Design
+- **Class 3 // 3/07 // 16:30-20:30**  // Prototype
+
 ### PRESENTATION
 - **Class 3 // 16/06**  // Final Presentation
 
@@ -47,5 +48,6 @@ To keep improving student's javascript programming skills we will be using libra
 - ml5.js library [LINK](https://google.com/)
 - Aframe library [LINK](https://google.com/)
 ## Resources
-Nice book [Book](https://google.com/).
+- Nice book [Book](https://google.com/).
+ -Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
 
