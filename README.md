@@ -21,9 +21,9 @@ Theoretical classes will be online in school platform and working sessions will 
 - **Class 1 // 11/06 // 16:30-17:30**  // Online course intro // Jordi and Aurel
 ### AR Classes
 - **Class 1 // 11/06 // 18:30-20:30**  // AR Intro
-- **Class 2 // 12/06 // 18:30-20:30**  // Excercise 1
+- **Class 2 // 12/06 // 16:30-18:30**  // Excercise 1
 - **Class 3 // 18/06 // 18:30-20:30**  // Excercise 2
-- **Class 4 // 19/06 // 18:30-20:30**  // Excercise 3
+- **Class 4 // 19/06 // 16:30-18:30**  // Excercise 3
 - **Class 5 // 25/06 // 18:30-20:30**  // Brief kick-off + Creative Session
 ### ML Classes
 - **Class 1 // 11/06 // 17:30-18:30**  // ML Intro
