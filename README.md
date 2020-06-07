@@ -39,7 +39,7 @@ Theoretical classes will be online in school platform and working sessions will 
 
 ## Teachers
 - **Aurel Richard**
- Creative technologist currently working at B-Reel
+ Creative technologist and designer currently working at [B-Reel](https://www.b-reel.com/) doing techy stuff.
 - **Jordi Planas**
 Some bio
 ## Tools
