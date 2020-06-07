@@ -43,11 +43,10 @@ Theoretical classes will be online in school platform and working sessions will 
 - **Jordi Planas**
 Some bio
 ## Tools
-To keep improving student's javascript programming skills we will be using libraries in js to prototype. Those libraries, Aframe and ml5.js, are simple and intuitives tools for begginers in AR and ML in the browser.
+To keep improving student's javascript programming skills we will be using libraries in js to prototype. Those libraries, A-frame and ml5.js, are simple and intuitives tools for begginers in AR and ML in the browser.
 - Code Editor
-- ml5.js library [LINK](https://google.com/)
-- Aframe library [LINK](https://google.com/)
+- ml5.js library [LINK](https://ml5js.org/)
+- A-frame library [LINK](https://aframe.io/)
 ## Resources
-- Nice book [Book](https://google.com/).
  -Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
 
