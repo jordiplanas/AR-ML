@@ -49,5 +49,5 @@ To keep improving student's javascript programming skills we will be using libra
 - Aframe library [LINK](https://google.com/)
 ## Resources
 - Nice book [Book](https://google.com/).
- -Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
+- Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
 
