@@ -28,23 +28,24 @@ Theoretical classes will be online in school platform and working sessions will 
 ### ML Classes
 - **Class 1 // 11/06 // 17:30-18:30**  // ML Intro
 - **Class 2 // 18/06 // 16:30-18:30**  // Excercise 1 - Image classification + Regression +
-- **Class 3 // 25/06 // 16:30-18:30**  // Excercise 2 - PoseNet
+- **Class 3 // 25/06 // 16:30-18:30**  // Excercise 2 - Transfer learning and PoseNet
 ### COMMON WORKSHOP
 - **Class 1 // 26/06 // 16:30-20:30** // Research
 - **Class 2 // 2/07 // 16:30-20:30** // Design
 - **Class 3 // 3/07 // 16:30-20:30**  // Prototype
 
 ### PRESENTATION
-- **Class 3 // 16/06**  // Final Presentation
+- **To be confirmed**  // Final Presentation
 
 ## Teachers
 - **Aurel Richard**
  Creative technologist and designer currently working at [B-Reel](https://www.b-reel.com/) doing techy stuff.
 - **Jordi Planas**
-Some bio
+ Creative technologist and interaction desing teacher at [IED](https://iedbarcelona.es/). Some interactive installations at [vimod](http://www.vimod.net/)
+
 ## Tools
 To keep improving student's javascript programming skills we will be using libraries in js to prototype. Those libraries, A-frame and ml5.js, are simple and intuitives tools for begginers in AR and ML in the browser.
-- Code Editor
+- P5.js + Code Editor [LINK](https://p5js.org/)
 - ml5.js library [LINK](https://ml5js.org/)
 - A-frame library [LINK](https://aframe.io/)
 ## Resources
