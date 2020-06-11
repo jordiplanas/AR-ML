@@ -26,8 +26,8 @@ Theoretical classes will be online in school platform and working sessions will 
 - **Class 4 // 19/06 // 16:30-18:30**  // Excercise 3 - Combining design and 3D in AR 
 - **Class 5 // 25/06 // 18:30-20:30**  // Brief kick-off + Creative Session
 ### ML Classes
-- **Class 1 // 11/06 // 17:30-18:30**  // ML Intro
-- **Class 2 // 18/06 // 16:30-18:30**  // Excercise 1 - Image classification + Regression +
+- **Class 1 // 11/06 // 17:30-18:30**  // ML Intro + Image classification with mobileNet
+- **Class 2 // 18/06 // 16:30-18:30**  // Excercise 1 - Webcam image classification + Regression
 - **Class 3 // 25/06 // 16:30-18:30**  // Excercise 2 - Transfer learning and PoseNet
 ### COMMON WORKSHOP
 - **Class 1 // 26/06 // 16:30-20:30** // Research
@@ -48,11 +48,15 @@ To keep improving student's javascript programming skills we will be using libra
 - P5.js + Code Editor [LINK](https://p5js.org/)
 - ml5.js library [LINK](https://ml5js.org/)
 - A-frame library [LINK](https://aframe.io/)
+- Tensorflow.js [LINK](https://www.tensorflow.org/js)
+
 ## Resources
-<<<<<<< HEAD
-- Nice book [Book](https://google.com/).
+-**Machine Learning**
+- Machine Learning for artists [Ml4a](https://ml4a.github.io/ml4a/).
 - Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
-=======
- -Rebecca Fiebrink [Talk](https://vimeo.com/287094397).
->>>>>>> 8a9bc480ccc22407396907a61f433111b1783254
+- Ai for artists [community](https://aiartists.org/).
+- Tutorial Daniel Shifthman [youtube](https://www.youtube.com/user/shiffman/playlists).
+- ML books [amazon](https://www.amazon.com/shop/thecodingtrain?listId=RL09MO9IJCCH)
+
+
 
