@@ -26,7 +26,7 @@ Theoretical classes will be online in school platform and working sessions will 
 - **Class 4 // 19/06 // 16:30-18:30**  // Excercise 3 - Combining design and 3D in AR 
 - **Class 5 // 25/06 // 18:30-20:30**  // Brief kick-off + Creative Session
 ### ML Classes
-- **Class 1 // 11/06 // 17:30-18:30**  // ML Intro + Image classification with mobileNet
+- **Class 1 // 11/06 // 17:30-18:30**  // ML Intro [Presentation](https://drive.google.com/file/d/1ECGCQzwvP2YsLEGjPS8HI4OhuS9Cmh21/view?usp=sharing) + Image classification with mobileNet
 - **Class 2 // 18/06 // 16:30-18:30**  // Excercise 1 - Webcam image classification + Regression
 - **Class 3 // 25/06 // 16:30-18:30**  // Excercise 2 - Transfer learning and PoseNet
 ### COMMON WORKSHOP
